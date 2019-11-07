@@ -5,7 +5,7 @@ metadata:
   name: aged-meadow
   uid: 022b373de5d34c80
 spec:
-  cpus: 1
+  cpus: 2
   diskSize: 4GB
   image:
     oci: weaveworks/ignite-ubuntu:latest
